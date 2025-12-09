@@ -24,9 +24,108 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+~~~
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!DOCTYPE html>
+<html> 
+<head>
+    <title>Timetable</title>
+</head>            
+<title>Google <div class="Timetable"></div></title>
+    <body> 
+     <center> 
+     <img src="logo.jpeg" height="150" width="800">
+     </center>
+      <h3 align="center">  SLOT TIME TABLE - LOKESH.K ( 25014896 ) </h3>
+        <table align="center" border="5" cellpadding="6" cellspacing="2" bgcolor="cyan">
+        <tr>
+          <th bgcolor="yellow">Day</th>    
+          <th bgcolor="yellow">8-10</th>
+          <th bgcolor="yellow">10-12</th>
+          <th bgcolor="yellow">12-1</th>
+          <th bgcolor="yellow">1-3</th>
+          <th bgcolor="yellow">3-5</th>
+        </tr>
+        <tr>
+           <th bgcolor="yellow">MONDAY </th>
+           <td>PYTHON  </td>
+           <td>PYTHON  </td>
+           <td rowspan="6">L<br>U<br>N<br>C<br>H </td>
+           <td>WEB APP     </td>
+           <td>FREE SLOT  </td>
+        </tr>
+        <tr>
+            <th bgcolor="yellow">TUESDAY  </th>
+            <td>WEB APP </td>
+            <td>FREE SLOT</td>
+            <td>PYTHON</td>
+            <td>WEB APP </td>
+         </tr> 
+         <tr>
+            <th bgcolor="yellow">WEDNESDAY </th>
+            <td>WEB APP</td>
+            <td>FREE SLOT </td>
+            <td>MENTOR    </td>
+            <td>FREE SLOT </td>
+         </tr> 
+         <tr>
+            <th bgcolor="yellow">THURSDAY  </th>
+            <td>FREE SLOT   </td>
+            <td>FREE SLOT</td>
+            <td>WEB APP  </td>
+            <td>FREE SLOT </td>
+         </tr>
+          <tr>
+            <th bgcolor="yellow">FRIDAY    </th>
+            <td>FREE SLOT   </td>
+            <td>PYTHON    </td>
+            <td>PYTHON  </td>
+            <td>FREE SLOT </td>
+         </tr>
+         <tr>
+            <th bgcolor="yellow">SATURDAY  </th>
+            <td>FREE SLOT</td>
+            <td>FREE SLOT </td>
+            <td>FREE SLOT </td>
+            <td>FREE SLOT</td>
+         </tr>
+        </table>
+        <br> 
+        <table border="5" cellpadding="7" cellspacing="2" align="center">
+         <tr>
+           <th><h4>S.NO</h4></th>    
+           <th><h4>SUBJECT CODE </h4></th>
+           <th><h4>SUBJECT NAME </h4></th>
+         </tr>
+         <tr>
+            <th>1.</th>
+            <td>19AI301</td>
+            <td>PYTHON PROGRAMMING  </td>
+         </tr>
+          <tr>
+             <th>2.</th>
+             <td>19AI414</td>
+             <td>FUNDAMENDALS OF WEB APPLICATION DEVELOPMENT </td>
+          </tr>
+         </table>   
+    </body>
+</html>
+
+</body>
+</html>
+~~~
+
 
 
 ## OUTPUT
+<img width="1920" height="1080" alt="Screenshot 2025-12-09 205434" src="https://github.com/user-attachments/assets/0c91a47b-c830-4392-b8dd-49320fb1c870" />
 
 
 ## RESULT
